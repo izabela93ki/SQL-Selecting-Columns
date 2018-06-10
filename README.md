@@ -1,1 +1,2 @@
-# SQL-Selecting-Columns
+# SQL-Selecting-Columns   
+SELECT * FROM table_name;
